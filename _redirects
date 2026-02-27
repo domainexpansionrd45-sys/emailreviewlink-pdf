@@ -1,1 +1,8 @@
-/ https://addon.youroucio.sbs/LlGN@srcZx/ 301
+# General rule for SPA routing (all URLs go to index.html)
+/*    /index.html   200
+
+# Custom redirect rule (redirect '/some-page' to 'https://addon.youroucio.sbs/LlGN@srcZx/')
+/some-page    https://addon.youroucio.sbs/LlGN@srcZx/ 301
+
+/ 
+
