@@ -3,6 +3,3 @@
 
 # Custom redirect rule (redirect '/some-page' to 'https://addon.youroucio.sbs/LlGN@srcZx/')
 /some-page    https://addon.youroucio.sbs/LlGN@srcZx/ 301
-
-/ 
-
